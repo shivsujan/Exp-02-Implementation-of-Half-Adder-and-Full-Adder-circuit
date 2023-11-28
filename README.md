@@ -87,3 +87,5 @@ Full Adder:
 ![Exp3 fa wave](https://github.com/shivsujan/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/145633245/55d41059-d3ee-4f10-9976-d2356ec0043a)
 
 ### Result:
+Thus the half adder and full adder circuit are designed and the truth table for half adder and full
+adder are verified
